@@ -9,4 +9,4 @@ Execute:
 ./<output> [number of rows] [number of columns]
 
 
-[number of rows] [number of columns] 100 x 100
+max[number of rows] x max[number of columns] = 100 x 100
